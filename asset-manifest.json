@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/estratti_OSM_Italia/static/css/main.f990c8ec.chunk.css",
+    "main.js": "/estratti_OSM_Italia/static/js/main.29953e84.chunk.js",
+    "main.js.map": "/estratti_OSM_Italia/static/js/main.29953e84.chunk.js.map",
+    "runtime-main.js": "/estratti_OSM_Italia/static/js/runtime-main.03ed7c8e.js",
+    "runtime-main.js.map": "/estratti_OSM_Italia/static/js/runtime-main.03ed7c8e.js.map",
+    "static/js/2.2935101f.chunk.js": "/estratti_OSM_Italia/static/js/2.2935101f.chunk.js",
+    "static/js/2.2935101f.chunk.js.map": "/estratti_OSM_Italia/static/js/2.2935101f.chunk.js.map",
+    "index.html": "/estratti_OSM_Italia/index.html",
+    "static/css/main.f990c8ec.chunk.css.map": "/estratti_OSM_Italia/static/css/main.f990c8ec.chunk.css.map",
+    "static/js/2.2935101f.chunk.js.LICENSE.txt": "/estratti_OSM_Italia/static/js/2.2935101f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03ed7c8e.js",
+    "static/js/2.2935101f.chunk.js",
+    "static/css/main.f990c8ec.chunk.css",
+    "static/js/main.29953e84.chunk.js"
+  ]
+}
