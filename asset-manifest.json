@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/estratti_OSM_Italia/static/css/main.5e3160f0.chunk.css",
-    "main.js": "/estratti_OSM_Italia/static/js/main.9d084b10.chunk.js",
-    "main.js.map": "/estratti_OSM_Italia/static/js/main.9d084b10.chunk.js.map",
+    "main.js": "/estratti_OSM_Italia/static/js/main.f6eb40f0.chunk.js",
+    "main.js.map": "/estratti_OSM_Italia/static/js/main.f6eb40f0.chunk.js.map",
     "runtime-main.js": "/estratti_OSM_Italia/static/js/runtime-main.03ed7c8e.js",
     "runtime-main.js.map": "/estratti_OSM_Italia/static/js/runtime-main.03ed7c8e.js.map",
-    "static/js/2.3df3cbe0.chunk.js": "/estratti_OSM_Italia/static/js/2.3df3cbe0.chunk.js",
-    "static/js/2.3df3cbe0.chunk.js.map": "/estratti_OSM_Italia/static/js/2.3df3cbe0.chunk.js.map",
+    "static/js/2.08f25a46.chunk.js": "/estratti_OSM_Italia/static/js/2.08f25a46.chunk.js",
+    "static/js/2.08f25a46.chunk.js.map": "/estratti_OSM_Italia/static/js/2.08f25a46.chunk.js.map",
     "index.html": "/estratti_OSM_Italia/index.html",
     "static/css/main.5e3160f0.chunk.css.map": "/estratti_OSM_Italia/static/css/main.5e3160f0.chunk.css.map",
-    "static/js/2.3df3cbe0.chunk.js.LICENSE.txt": "/estratti_OSM_Italia/static/js/2.3df3cbe0.chunk.js.LICENSE.txt"
+    "static/js/2.08f25a46.chunk.js.LICENSE.txt": "/estratti_OSM_Italia/static/js/2.08f25a46.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.03ed7c8e.js",
-    "static/js/2.3df3cbe0.chunk.js",
+    "static/js/2.08f25a46.chunk.js",
     "static/css/main.5e3160f0.chunk.css",
-    "static/js/main.9d084b10.chunk.js"
+    "static/js/main.f6eb40f0.chunk.js"
   ]
 }
