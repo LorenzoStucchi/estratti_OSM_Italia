@@ -1,0 +1,77 @@
+:root {
+  --mainColor1: #d73f3f;
+  --mainColor2: #d85151;
+  --mainColor3: #d76161;
+  --mainColor4: #ff726a;
+  --headerHeight: 80px;
+}
+#container {
+  flex: 1;
+  height: 100%;
+}
+a {
+  text-decoration: none;
+}
+html,
+body,
+.container {
+  height: 100%;
+  font-family: "Barlow Condensed", sans-serif;
+  margin: 0;
+}
+div#root {
+  height: 100%;
+}
+#mapContainer {
+  height: 100%;
+  float: left;
+  width: 65%;
+}
+
+.content {
+  width: 100%;
+  height: calc(100% - var(--headerHeight));
+}
+
+.MuiTreeItem-root.Mui-selected > .MuiTreeItem-content .MuiTreeItem-label {
+  background-color: rgb(41 149 243 / 15%) !important;
+  font-weight: bold;
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.MuiTreeItem-label {
+  width: 100%;
+  position: relative;
+  padding-left: 4px;
+}
+
+.MuiTypography-root.MuiTreeItem-label.MuiTypography-body1 {
+  font-size: 18px;
+  font-family: "Barlow Condensed", sans-serif;
+}
+.MuiFormControl-root.MuiTextField-root {
+  width: 90%;
+  margin: 0px 20px 10px 20px;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #999;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #aaa;
+}
+
+h1 {
+  font-size: 20px;
+  align-self: center;
+}
